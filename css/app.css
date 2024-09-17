@@ -39,6 +39,10 @@ html {
 
 /* HEADER */
 
+.logo {
+    margin-left: 10px;
+}
+
 .header-container {
     background-color: rgb(255, 255, 255);
     font-size: 20px;
@@ -52,7 +56,17 @@ html {
 /* TASK AND SECTION */
 
 .main-container {
+
     background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 700px;
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;    
+    border: 200px,200px;
+    border-color: rgb(255, 255, 255);
+
 }
 
 .box-task {
@@ -66,8 +80,7 @@ html {
     display: inline-block;
     color: white;
     background-color: rgb(69, 200, 240);
-    align-content: center;
- 
+    align-content: center; 
 }
 
 .box-section {
@@ -81,7 +94,14 @@ html {
     display: inline-block;
     color: rgb(216, 216, 216);
     align-content: center;
-
 }
 
-
+.checkmark {
+    width: 28px;
+    height: 28px;
+    border-style: solid;
+    color: green;
+    display: inline-block;
+    border-radius: 25px;
+    text-align: center;
+}
