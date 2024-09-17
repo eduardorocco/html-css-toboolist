@@ -1,0 +1,53 @@
+/* RESET RULES */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+ul,
+ol {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: currentColor;
+}
+
+img {
+	max-width: 100%;
+}
+
+/* LAYOUT */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(241, 241, 241);
+}
+
+.container {
+    max-width: 1024px;
+   
+}
+
+/* BANNER */
+
+.header-container {
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.logo-name {
+    font-size: 40px;   
+}
+
+
+
+
