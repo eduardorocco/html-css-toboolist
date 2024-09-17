@@ -125,3 +125,22 @@ h1 {
     border-radius: 25px;
     text-align: center;
 }
+
+/*BOX DELLA CHECKLIST */
+.box {
+    border-radius: 10px;
+    border-style: solid;
+    width: 70px;
+    border-color:rgb(23, 142, 163);
+}
+
+.cyan {
+    background-color: rgb(23, 142, 163);
+}
+
+
+.editorial {
+    font-weight: 100;
+    font-size: smaller;
+    color: rgb(255, 255, 255);
+}
