@@ -56,12 +56,10 @@ html {
     vertical-align: middle;   
 }
 
-/* TASK AND SECTION */
+/* TASK AND SECTION BUTTON */
 
-.card-header {
-    border-bottom: 1px solid color (rgb 255, 255, 255);
-}
 
+/* MAIN CONTENT */
 .main-container {
 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
